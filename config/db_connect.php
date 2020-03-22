@@ -1,6 +1,8 @@
 <?php
 
 	// connect to the database
+	//ninja_pizza is database name.
+	//table name is pizzas
 	$conn = mysqli_connect('localhost', 'haider', 'test1234', 'ninja_pizza');
 
 	// check connection
